@@ -2,7 +2,6 @@
 # SE_Day1
 Software Engineering Day1 Assignment
 
-
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
@@ -10,31 +9,22 @@ Software engineering is the systematic application of engineering principles to 
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 Reliability: Ensures that software systems function correctly and consistently.
-
 Scalability: Enables systems to handle growth in users, data, or functionality.
-
 Maintainability: Facilitates updates and improvements over time.
-
 Efficiency: Reduces development time and costs through structured processes.
-
 Innovation: Drives the creation of new technologies and solutions.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
 Planning – This phase involves defining the project scope, objectives, timeline, resources, and feasibility. It ensures that the project aligns with business goals and is achievable.
-
 Requirements Gathering & Analysis – In this phase, stakeholders provide detailed functional and non-functional requirements. Analysts document user needs, system specifications, and potential risks.
-
 Design – Architects and developers create system architecture, data models, and UI/UX design. This phase includes high-level (overall structure) and low-level (detailed component) designs.
-
 Development (Implementation) – Programmers write code based on the design specifications. The software is built using programming languages, frameworks, and tools.
-
 Testing – The developed software undergoes rigorous testing (unit, integration, system, and user acceptance testing) to identify and fix bugs before deployment.
-
 Deployment – The software is released to users. This may involve deployment to production servers, cloud environments, or app stores, with monitoring for potential issues.
-
 Maintenance & Support – After deployment, the software requires updates, bug fixes, and enhancements based on user feedback and changing requirements.
 
 
@@ -77,16 +67,14 @@ Agile – Best for Dynamic and Evolving Projects
     Industries: Software development, startups, e-commerce, and game development.
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer:
 Writes code, implements features, and fixes bugs.
 Collaborates with designers and QA engineers to ensure functionality.
-
 Quality Assurance (QA) Engineer:
 Tests software to identify bugs and ensure quality.
 Writes test cases and automates testing processes.
-
 Project Manager:
 Plans and oversees the project timeline, budget, and resources.
 Acts as a bridge between stakeholders and the development team.
