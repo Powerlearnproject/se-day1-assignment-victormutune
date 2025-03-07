@@ -6,8 +6,11 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-    Software engineering is the systematic application of engineering principles to the design, development, testing, deployment, and maintenance of software systems. It involves the use of methodologies, tools, and best practices to ensure that software is reliable, scalable, maintainable, and meets user requirements. Software engineering is a multidisciplinary field that combines computer science, mathematics, project management, and domain-specific knowledge.
-
+    software engineering is a branch of computer science used for developing, testing and maintaining software.
+    reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
+    efficiency - it helps to optimize developer workflow while maintaining high quality standards.
+     scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
+     security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
